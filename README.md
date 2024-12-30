@@ -19,3 +19,30 @@ To get started with PVZ Fusion mods:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/PVZFusion/pvz-fusion-mods.git
+   ```
+2. **Follow the instructions** in the repository to install and apply the mods to your *Plants vs Zombies* game.
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas for new mods, improvements, or bug fixes, feel free to fork the repository, make your changes, and submit a pull request.
+
+### How to contribute:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and test them.
+4. Submit a pull request with a clear description of your changes.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to us at [contact@pvzfusionapk.io](mailto:contact@pvzfusionapk.io).
+
+Thank you for being part of PVZ Fusion!
+
+---
+
+*Happy gaming and modding!*
